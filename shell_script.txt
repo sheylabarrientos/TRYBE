@@ -30,7 +30,8 @@ A facilidade que o Shell Script promove na vida do usuário e também do adminis
 
 A lista é bem extensa, esses foram apenas alguns exemplos.
 
-#2 
+#2 Currículo Diferenciado: Se existe a intenção de trabalhar com o Lunix, há necessidade de dominar Shell Scrip. Assim poderá atuar em diversas áreas, interpretando Shells que foram criados por outras pessoas e também realizar suas próprias criações de Scripts. Existem oportunidades para profissionais que possuem Shell no currículo.
+
 
 #3 Alta valorização no mercado de trabalho: A demanda por profissionais que sejam aptos a atuar com as diversas tecnologias que surgiram, como Docker e OpenStack são altas, porém eles também procuram pelos profissionais que conhecem Shell Script, você sabe porquê?
 
@@ -38,13 +39,15 @@ A lista é bem extensa, esses foram apenas alguns exemplos.
 
 	B) OpenStack: Você consegue executar o script do Shell ainda no primeiro boot da máquina virtual;
 
-#4 
+#4 Conquista salarial: Pessoas que possuem a habilidade de trabalhar com Shel Script e são capacitadas possuem muito valor no mercado, conquistando boas ofertas de trabalho, não faltando oportunidades.
+
 
 #5 **A área da tecnologia, mais especificamente de desenvolvimento de software, continua com um gap muito grande a ser preenchido pelos profissionais qualificados. O que significa que existem poucos profissionais com conhecimento em especificas linguagens *Progressão Promissora da Carreira: Enquanto a demanda continua a crescer para o talento de scripts em shell, ainda existe uma escassez de profissionais experientes no mercado. Existem oportunidades ilimitadas de progressão na carreira para pessoas desenvolvedoras e administradoras de sistemas qualificados.
 
 #6 **Por mais que o mundo da tecnologia evolua em uma velocidade extraordinária, os sistemas operacionais pioneiros continuam sendo bem mais utilizados.*Novos conceitos foram criados, mas o uso do Shell Script não saiu de “moda”: as tecnologias evoluíram bastante, o tempo passou, alguns conceitos de computação sofreram alteração, porém o Shell Script segue firme e forte.
 
-#7 **Uma das partes mais fascinantes do Shell é poder executar em modo interativo e não interativo uma mesma tarefa. *Conhecer Shell Script ajuda no seu conhecimento de modo interativo: Existem dois modos que o Bash pode ser executado, em modo interativo (linha de comando) e no modo não interativo (script). Existem diversas formas diferentes para executar uma mesma tarefa, e essa das partes mais fascinantes do Shell.
+#7 Diversão e Aprendizado com Shel Script: Pode parecer surreal, mas realizar uma tarefa que antes era executada manualmente pelo seu script, pode nos dar prazer e ser divertido, utilizando sua lógica. O sentimento de conquista pela sua criação no momento em que estamos criando nos traz também diversão.
+
 
 #8 Crescimento salarial: Pessoas capacitadas e que possuem a habilidade de trabalhar com Shell Script são muito valorizadas no mercado, conseguem boas propostas de emprego e para elas não faltam vagas.
 
