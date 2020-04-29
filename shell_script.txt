@@ -30,7 +30,7 @@ A facilidade que o Shell Script promove na vida do usuário e também do adminis
 
 A lista é bem extensa, esses foram apenas alguns exemplos.
 
-#2 Novos conceitos foram criados, mas o uso do Shell Script não saiu de “moda”: as tecnologias evoluíram bastante, o tempo passou, alguns conceitos de computação sofreram alteração, porém o Shell Script segue firme e forte.
+#2 
 
 #3 Alta valorização no mercado de trabalho: A demanda por profissionais que sejam aptos a atuar com as diversas tecnologias que surgiram, como Docker e OpenStack são altas, porém eles também procuram pelos profissionais que conhecem Shell Script, você sabe porquê?
 
@@ -42,7 +42,7 @@ A lista é bem extensa, esses foram apenas alguns exemplos.
 
 #5 Ter um currículo de peso: Qualquer profissional que tenha a intenção de trabalhar com Linux, precisa ter um alto domínio sobre Shell Script. Você pode atuar nas mais variadas áreas, mas você precisará interpretar Shells criados por outras pessoas e criar seus próprios Scripts. Existem vagas de emprego direcionadas para profissionais que tenham Shell no currículo.
 
-#6 Shell Script também é diversão: Pode soar estranho, mas é divertido e prazeroso você ver uma tarefa que antes era executada manualmente, ser realizada pelo seu script, com sua a lógica e do seu jeito. Você fica orgulhoso pela sua criação e no momento em que está criando, você também está se divertindo.
+#6 **Por mais que o mundo da tecnologia evolua em uma velocidade extraordinária, os sistemas operacionais pioneiros continuam sendo bem mais utilizados.*Novos conceitos foram criados, mas o uso do Shell Script não saiu de “moda”: as tecnologias evoluíram bastante, o tempo passou, alguns conceitos de computação sofreram alteração, porém o Shell Script segue firme e forte.
 
 #7 Progressão Promissora da Carreira: Enquanto a demanda continua a crescer para o talento de scripts em shell, ainda existe uma escassez de profissionais experientes no mercado. Existem oportunidades ilimitadas de progressão na carreira para pessoas desenvolvedoras e administradoras de sistemas qualificados.
 
