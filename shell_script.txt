@@ -46,8 +46,7 @@ A lista é bem extensa, esses foram apenas alguns exemplos.
 
 #6 **Por mais que o mundo da tecnologia evolua em uma velocidade extraordinária, os sistemas operacionais pioneiros continuam sendo bem mais utilizados.*Novos conceitos foram criados, mas o uso do Shell Script não saiu de “moda”: as tecnologias evoluíram bastante, o tempo passou, alguns conceitos de computação sofreram alteração, porém o Shell Script segue firme e forte.
 
-#7 Diversão e Aprendizado com Shel Script: Pode parecer surreal, mas realizar uma tarefa que antes era executada manualmente pelo seu script, pode nos dar prazer e ser divertido, utilizando sua lógica. O sentimento de conquista pela sua criação no momento em que estamos criando nos traz também diversão.
-
+#7 **Uma das partes mais fascinantes do Shell é poder executar em modo interativo e não interativo uma mesma tarefa. *Conhecer Shell Script ajuda no seu conhecimento de modo interativo: Existem dois modos que o Bash pode ser executado, em modo interativo (linha de comando) e no modo não interativo (script). Existem diversas formas diferentes para executar uma mesma tarefa, e essa das partes mais fascinantes do Shell. 
 
 #8 Crescimento salarial: Pessoas capacitadas e que possuem a habilidade de trabalhar com Shell Script são muito valorizadas no mercado, conseguem boas propostas de emprego e para elas não faltam vagas.
 
