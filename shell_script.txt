@@ -40,7 +40,7 @@ A lista é bem extensa, esses foram apenas alguns exemplos.
 
 #4 
 
-#5 Ter um currículo de peso: Qualquer profissional que tenha a intenção de trabalhar com Linux, precisa ter um alto domínio sobre Shell Script. Você pode atuar nas mais variadas áreas, mas você precisará interpretar Shells criados por outras pessoas e criar seus próprios Scripts. Existem vagas de emprego direcionadas para profissionais que tenham Shell no currículo.
+#5 **A área da tecnologia, mais especificamente de desenvolvimento de software, continua com um gap muito grande a ser preenchido pelos profissionais qualificados. O que significa que existem poucos profissionais com conhecimento em especificas linguagens *Progressão Promissora da Carreira: Enquanto a demanda continua a crescer para o talento de scripts em shell, ainda existe uma escassez de profissionais experientes no mercado. Existem oportunidades ilimitadas de progressão na carreira para pessoas desenvolvedoras e administradoras de sistemas qualificados.
 
 #6 **Por mais que o mundo da tecnologia evolua em uma velocidade extraordinária, os sistemas operacionais pioneiros continuam sendo bem mais utilizados.*Novos conceitos foram criados, mas o uso do Shell Script não saiu de “moda”: as tecnologias evoluíram bastante, o tempo passou, alguns conceitos de computação sofreram alteração, porém o Shell Script segue firme e forte.
 
