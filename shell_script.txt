@@ -38,13 +38,13 @@ A lista é bem extensa, esses foram apenas alguns exemplos.
 
 	B) OpenStack: Você consegue executar o script do Shell ainda no primeiro boot da máquina virtual;
 
-#4 Conhecer Shell Script ajuda no seu conhecimento de modo interativo: Existem dois modos que o Bash pode ser executado, em modo interativo (linha de comando) e no modo não interativo (script). Existem diversas formas diferentes para executar uma mesma tarefa, e essa das partes mais fascinantes do Shell.
+#4 
 
 #5 Ter um currículo de peso: Qualquer profissional que tenha a intenção de trabalhar com Linux, precisa ter um alto domínio sobre Shell Script. Você pode atuar nas mais variadas áreas, mas você precisará interpretar Shells criados por outras pessoas e criar seus próprios Scripts. Existem vagas de emprego direcionadas para profissionais que tenham Shell no currículo.
 
 #6 **Por mais que o mundo da tecnologia evolua em uma velocidade extraordinária, os sistemas operacionais pioneiros continuam sendo bem mais utilizados.*Novos conceitos foram criados, mas o uso do Shell Script não saiu de “moda”: as tecnologias evoluíram bastante, o tempo passou, alguns conceitos de computação sofreram alteração, porém o Shell Script segue firme e forte.
 
-#7 Progressão Promissora da Carreira: Enquanto a demanda continua a crescer para o talento de scripts em shell, ainda existe uma escassez de profissionais experientes no mercado. Existem oportunidades ilimitadas de progressão na carreira para pessoas desenvolvedoras e administradoras de sistemas qualificados.
+#7 **Uma das partes mais fascinantes do Shell é poder executar em modo interativo e não interativo uma mesma tarefa. *Conhecer Shell Script ajuda no seu conhecimento de modo interativo: Existem dois modos que o Bash pode ser executado, em modo interativo (linha de comando) e no modo não interativo (script). Existem diversas formas diferentes para executar uma mesma tarefa, e essa das partes mais fascinantes do Shell.
 
 #8 Crescimento salarial: Pessoas capacitadas e que possuem a habilidade de trabalhar com Shell Script são muito valorizadas no mercado, conseguem boas propostas de emprego e para elas não faltam vagas.
 
