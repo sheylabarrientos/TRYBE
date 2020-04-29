@@ -51,3 +51,5 @@ A lista é bem extensa, esses foram apenas alguns exemplos.
 #9 Melhorar seu currículo: Há ofertas de emprego que hoje em dia nem mesmo mencionam a exigência de saber shell scripts pois já assumem que o candidato sabe.
 
 #10 Ganhar tempo: Dois colaboradores de uma squad podem trabalhar juntos, agilizando o processo de desenvolvimento.
+
+COMO MESCLAR? 
