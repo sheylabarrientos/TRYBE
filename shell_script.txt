@@ -49,4 +49,5 @@ A lista é bem extensa, esses foram apenas alguns exemplos.
 #8 Crescimento salarial: Pessoas capacitadas e que possuem a habilidade de trabalhar com Shell Script são muito valorizadas no mercado, conseguem boas propostas de emprego e para elas não faltam vagas.
 
 #9 Melhorar seu currículo: Há ofertas de emprego que hoje em dia nem mesmo mencionam a exigência de saber shell scripts pois já assumem que o candidato sabe.
+
 #10 Economiza tempo.
