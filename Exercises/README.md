@@ -6,19 +6,19 @@ Block 1, 2, 3
 Introdução - HTML & CSS
 
 3 - 1
-HTML & CSS - Estruturas de página
+  - HTML & CSS - Estruturas de página
 
 3 - 2
-HTML & CSS - Primeiros passos em CSS
+  - HTML & CSS - Primeiros passos em CSS
 
 3 - 3
-HTML & CSS - Seletores e posicionamento
+  - HTML & CSS - Seletores e posicionamento
 
 3 - 4
-HTML Semântico
+  - HTML Semântico
 
 3 - 5
-Projeto - HTML & CSS
+  - Projeto - HTML & CSS
 
 
 2 - BLOCK
