@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSS position</title>
+        <style>
+        body {
+            background-color: darkslategray;
+            font-family: fantasy;
+            text-shadow: 2px 2px 2px black; 
+            color:honeydew;
+        }
+        
+        #landscape {
+            width: 250px;
+            position: absolute;
+            top: 20px;
+            left: 10px;
+            z-index: 1;
+        }
+        
+        #winston {
+            position: absolute;
+            width: 300px;
+            top: 20px;
+            left: 10px;
+            margin: 0;
+            z-index: 2;
+        }
+        #hopper {
+            position: absolute;
+            top: 120px;
+            left: 170px;
+            z-index: 3;
+        }
+        
+        h1 {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 2px black; 
+            color: whitesmoke;
+            position: relative;
+            z-index: 4;
+            left: 30px;
+            
+        }
+
+        h3 {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            color: whitesmoke;
+            text-shadow: 2px 2px 2px black; 
+            position: relative;
+            z-index: 4;
+            left: 30px;
+            padding: 10px 10px;
+        }
+        
+        #song {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            width: 20%;
+            float: right;
+            margin-top: 0;
+            margin-left: 350px;
+            margin-right: 700px;
+            top: 0px;
+            position: absolute;
+        }
+
+        #footer {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 1.0em;
+            line-height: 25px;
+            padding: 10px 10px;
+            float: right;
+            margin-right: 680px;
+            position: relative;
+            top: 100px;
+        }
+        </style>
+    </head>
+    <body>
+
+    <h1>Sheyla's Party</h1>
+
+    <img src="" id="landscape">
+    <img src="https://www.kasandbox.org/programming-images/avatars/Hopper-jumping.gif" id="hopper">
+    <img src="http://semprebelacl.com/wp-content/uploads/2019/10/17880019_10211176827769912_1279171616945975795_o.jpg" id="winston">
+    
+    <div id="song">
+    <h3><strong> Vamos Celebrar</strong></h3>
+    <p>Venha celebrar o meu aniversário comigo! Hoje chegou o meu grande dia e convido você para brincar e se divertir comigo, afinal, sua amizade e sua presença são muito importantes para mim. Espero você! Hoje é um dia muito especial e você não pode ficar de fora.
+    </p>
+    </div>
+
+    <div id=footer>
+    <p><strong>Endereço:</strong>
+        Rua do Medo, 000<br>
+São Bernardo do Campo - SP<br>
+
+</p>
+
+    <p><strong>Data:</strong>
+30/02/2020 <strong>Horário:</strong>
+20:00</p>
+    </div>
+    
+    </body>
+</html>
